@@ -134,7 +134,7 @@
                                     <hr>
                                     
                                     <div class="text-center">
-                                        <a class="small" href="./system/reset_pass.php">Forgot Password ? Recover!</a>
+                                        <a class="small" href="add_account.php">Don't have an account ? Create!</a>
                                     </div>
                                 </div>
                             </div>
